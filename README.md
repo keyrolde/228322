@@ -8,7 +8,3 @@ git status
 git add
 git commit -m
 git push
-
-123214
-5
-325
